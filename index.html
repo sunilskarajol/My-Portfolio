@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <!-- Loader -->
+    <div id="loader" class="loader">
+      <div class="spinner"></div>
+    </div>
+
+    <!-- Navbar -->
+    <nav id="navbar">
+      <div class="logo">SunilPortfolio.</div>
+      <ul class="nav-links">
+        <li><a href="#hero">Home</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#internship">Internship</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#certifications">Certifications</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+      <div class="hamburger">
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+      </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="hero">
+      <div class="hero-content">
+        <h1>Hi, I'm <span class="highlight-name"></span></h1>
+        <h2 class="typing-text"></h2>
+        <p class="hero-bio"></p>
+        <a href="#" class="btn glass-btn" id="resume-btn">Download Resume</a>
+      </div>
+      <div class="hero-visual">
+        <div class="code-editor">
+          <div class="editor-header">
+            <span class="dot red"></span>
+            <span class="dot yellow"></span>
+            <span class="dot green"></span>
+          </div>
+          <div class="editor-body">
+            <pre><code id="code-block"></code></pre>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects">
+      <h2 class="section-title">Projects</h2>
+      <div class="projects-grid" id="projects-container">
+        <!-- Projects injected via JS -->
+      </div>
+    </section>
+
+    <!-- Internship Section -->
+    <section id="internship">
+      <h2 class="section-title">Internship</h2>
+      <div class="projects-grid" id="internship-container">
+        <!-- Internship injected via JS -->
+      </div>
+    </section>
+
+    <!-- Education Section -->
+    <section id="education">
+      <h2 class="section-title">Education</h2>
+      <div class="projects-grid" id="education-container">
+        <!-- Education injected via JS -->
+      </div>
+    </section>
+
+    <!-- Certifications Section -->
+    <section id="certifications">
+      <h2 class="section-title">Certifications</h2>
+      <div class="cert-grid" id="certifications-container">
+        <!-- Certifications injected via JS -->
+      </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section id="skills">
+      <h2 class="section-title">Skills</h2>
+      <div class="skills-grid" id="skills-container">
+        <!-- Skills injected via JS -->
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <h2 class="section-title">Contact Me</h2>
+      <div class="contact-container" id="contact-container">
+        <!-- Contact info injected via JS -->
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      <p>&copy; 2025 Sunil Karajol. All rights reserved.</p>
+    </footer>
+    <script src="constant.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
