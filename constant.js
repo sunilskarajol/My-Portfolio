@@ -3,7 +3,7 @@ const USER_DATA = {
   role: "Java Full Stack Developer",
   bio: "Driven Computer Science Engineering graduate with a solid academic foundation and a keen interest in software development. Proficient in design and analysis, coupled with strong communication and leadership skills. Eager to leverage technical expertise to create innovative solutions that positively impact society.",
   resumeLink:
-    "https://drive.google.com/file/d/1CpieLrK7mUtGiGs75IO9Z2c5g2_hGkVT/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1vP9dq-fcN8fBQaKrnj1oXLWHiUpTPm4v/view?usp=drivesdk",
   social: {
     email: "sunilskarjol@gmail.com",
     linkedin: "https://www.linkedin.com/in/sunil-karajol-68b39a298",
@@ -157,4 +157,5 @@ const CERTIFICATIONS = [
       "Completed a certification course covering Python programming, data analysis techniques, statistical methods, data visualization and machine learning fundamentals using libraries such as NumPy, Pandas, Matplotlib and Scikit-learn.",
   },
 ];
+
 
