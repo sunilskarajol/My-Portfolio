@@ -3,7 +3,7 @@ const USER_DATA = {
   role: "Java Full Stack Developer",
   bio: "Driven Computer Science Engineering graduate with a solid academic foundation and a keen interest in software development. Proficient in design and analysis, coupled with strong communication and leadership skills. Eager to leverage technical expertise to create innovative solutions that positively impact society.",
   resumeLink:
-    "https://drive.google.com/file/d/12zUr0TkqBi7Y4GHUi8JP0TebU1YnPV4W/view?usp=drivesdk",
+    https://drive.google.com/file/d/12zUr0TkqBi7Y4GHUi8JP0TebU1YnPV4W/view?usp=drivesdk,
   social: {
     email: "sunilskarjol@gmail.com",
     linkedin: "https://www.linkedin.com/in/sunil-karajol-68b39a298",
