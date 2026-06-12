@@ -16,8 +16,10 @@ const PROJECTS = [
   {
     title: "Online Car Rental System",
     description:
-      "Designed and developed a robust web-based car rental platform, allowing users to browse, book, and manage reservations with real-time availability. Implemented secure user authentication, advanced vehicle search filters, rental booking logic and an admin dashboard for efficient fleet and user management.",
-    tech: ["Java", "HTML/CSS", "MySQL", "Web Dev"],
+      "Developed a full-stack web-based Car Rental System using Java, Spring Boot and MySQL, enabling
+real-time booking and reservation management for 50+ vehicle records Designed and built 5+ RESTful APIs for user authentication, vehicle search, and CRUD operations,
+implementing backend validation logic to ensure data integrity and availability tracking.",
+    tech: ["Java", "HTML/CSS", "MySQL", "Spring boot"],
     image:
       "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
     link: "#",
