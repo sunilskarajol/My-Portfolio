@@ -1,9 +1,9 @@
 const USER_DATA = {
   name: "SUNIL KARAJOL",
-  role: "Java Full Stack Developer",
+  role: "Full Stack Web Developer",
   bio: "Driven Computer Science Engineering graduate with a solid academic foundation and a keen interest in software development. Proficient in design and analysis, coupled with strong communication and leadership skills. Eager to leverage technical expertise to create innovative solutions that positively impact society.",
   resumeLink:
-    "https://drive.google.com/file/d/1NqMTi4-KI29-Wbi33eGrVeN9SJUJm2WR/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1TNUPyKeTXYgBLCUo5xdd4PVqIumB0m47/view?usp=drivesdk",
   social: {
     email: "sunilskarjol@gmail.com",
     linkedin: "https://www.linkedin.com/in/sunil-karajol-68b39a298",
@@ -16,8 +16,8 @@ const PROJECTS = [
   {
     title: "Online Car Rental System",
     description:
-      "Developed a full-stack web-based Car Rental System using Java, Spring Boot and MySQL, enabling
-real-time booking and reservation management for 50+ vehicle records Designed and built 5+ RESTful APIs for user authentication, vehicle search, and CRUD operations,
+      " Developed a full-stack web-based Car Rental System using Java, Spring Boot and MySQL, enabling
+real-time booking and reservation management for 50+ vehicle records Designed and built 5+ RESTful APIs for user authentication, vehicle search, and CRUD operations
 implementing backend validation logic to ensure data integrity and availability tracking.",
     tech: ["Java", "HTML/CSS", "MySQL", "Spring boot"],
     image:
