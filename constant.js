@@ -27,7 +27,9 @@ implementing backend validation logic to ensure data integrity and availability 
   {
     title: "Eco-Friendly Crop Protection",
     description:
-      "Developed an innovative solar-powered scarecrow system that employs advanced sound detection technology to safeguard crops from wildlife damage. This eco-friendly, chemical-free solution features automated audio responses, promoting sustainable agricultural practices.",
+      "Built a solar-powered smart crop protection system integrating sensor-based sound detection technol-
+ogy to automatically deter wildlife, reducing manual monitoring effort by 80%. Handled end-to-end hardware and software integration, implementing real-time detection logic and
+power-efficient control systems using solar energy for 24/7 autonomous operation.",
     tech: ["IoT", "Sensors", "Solar", "Audio Processing"],
     image:
       "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
@@ -50,14 +52,20 @@ const INTERNSHIP = [
     company: "Rooman Technologies Pvt Ltd",
     date: "Sep 2024 – Mar 2025",
     description:
-      "Collaborated with Rooman Technologies, IBM, Wadhwani Foundation, and IIT-Guwahati in the WIINNR Internship Program to develop future skills and gain industry experience. Participated in cross-functional teams to enhance skills and knowledge in the tech industry.",
+      "Completed the WIINNR Internship Program in collaboration with IBM, Wadhwani Foundation, and
+IIT Guwahati, gaining hands-on experience in Python for data handling, cleaning, and management
+of 200+ data records. Implemented interactive dashboards and reports using Power BI for data visualization, strengthening
+analytical thinking and teamwork skills in a professional environment.",
   },
   {
     role: "Internship Trainee",
     company: "Prodevans",
     date: "Nov 2023 – Dec 2023",
     description:
-      "A suite of technologies used for comprehensive server and webserver monitoring. Utilizing Zabbix software to monitor IT infrastructure, including networks, servers, and virtual machines.",
+      "Gained hands-on experience with Zabbix for monitoring IT infrastructure including servers, networks,
+cloud services, and applications using real-time metrics, analyzing system health indicators such as
+CPU, memory, and disk usage across 10+ systems. Managed project documentation and source code using GitHub, generated infrastructure performance
+reports, and built a professional profile on LinkedIn.",
   },
 ];
 
