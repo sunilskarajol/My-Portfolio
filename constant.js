@@ -16,9 +16,7 @@ const PROJECTS = [
   {
     title: "Online Car Rental System",
     description:
-      " Developed a full-stack web-based Car Rental System using Java, Spring Boot and MySQL, enabling
-real-time booking and reservation management for 50+ vehicle records Designed and built 5+ RESTful APIs for user authentication, vehicle search, and CRUD operations
-implementing backend validation logic to ensure data integrity and availability tracking.",
+      " Developed a full-stack web-based Car Rental System using Java, Spring Boot and MySQL, enabling real-time booking and reservation management for 50+ vehicle records Designed and built 5+ RESTful APIs for user authentication, vehicle search, and CRUD operationsimplementing backend validation logic to ensure data integrity and availability tracking.",
     tech: ["Java", "HTML/CSS", "MySQL", "Spring boot"],
     image:
       "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
@@ -27,9 +25,7 @@ implementing backend validation logic to ensure data integrity and availability 
   {
     title: "Eco-Friendly Crop Protection",
     description:
-      "Built a solar-powered smart crop protection system integrating sensor-based sound detection technol-
-ogy to automatically deter wildlife, reducing manual monitoring effort by 80%. Handled end-to-end hardware and software integration, implementing real-time detection logic and
-power-efficient control systems using solar energy for 24/7 autonomous operation.",
+      "Built a solar-powered smart crop protection system integrating sensor-based sound detection technology to automatically deter wildlife, reducing manual monitoring effort by 80%. Handled end-to-end hardware and software integration, implementing real-time detection logic andpower-efficient control systems using solar energy for 24/7 autonomous operation.",
     tech: ["IoT", "Sensors", "Solar", "Audio Processing"],
     image:
       "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
@@ -52,20 +48,14 @@ const INTERNSHIP = [
     company: "Rooman Technologies Pvt Ltd",
     date: "Sep 2024 – Mar 2025",
     description:
-      "Completed the WIINNR Internship Program in collaboration with IBM, Wadhwani Foundation, and
-IIT Guwahati, gaining hands-on experience in Python for data handling, cleaning, and management
-of 200+ data records. Implemented interactive dashboards and reports using Power BI for data visualization, strengthening
-analytical thinking and teamwork skills in a professional environment.",
+      "Completed the WIINNR Internship Program in collaboration with IBM, Wadhwani Foundation, andIIT Guwahati, gaining hands-on experience in Python for data handling, cleaning, and managementof 200+ data records. Implemented interactive dashboards and reports using Power BI for data visualization, strengtheninganalytical thinking and teamwork skills in a professional environment.",
   },
   {
     role: "Internship Trainee",
     company: "Prodevans",
     date: "Nov 2023 – Dec 2023",
     description:
-      "Gained hands-on experience with Zabbix for monitoring IT infrastructure including servers, networks,
-cloud services, and applications using real-time metrics, analyzing system health indicators such as
-CPU, memory, and disk usage across 10+ systems. Managed project documentation and source code using GitHub, generated infrastructure performance
-reports, and built a professional profile on LinkedIn.",
+      "Gained hands-on experience with Zabbix for monitoring IT infrastructure including servers, networks,cloud services, and applications using real-time metrics, analyzing system health indicators such asCPU, memory, and disk usage across 10+ systems. Managed project documentation and source code using GitHub, generated infrastructure performancereports, and built a professional profile on LinkedIn.",
   },
 ];
 
